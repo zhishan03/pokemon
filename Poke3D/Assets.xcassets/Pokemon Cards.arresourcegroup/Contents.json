@@ -1,0 +1,41 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "arbok-card.arreferenceimage"
+    },
+    {
+      "filename" : "bulbasaur-card.arreferenceimage"
+    },
+    {
+      "filename" : "dewgong-card.arreferenceimage"
+    },
+    {
+      "filename" : "eevee-card.arreferenceimage"
+    },
+    {
+      "filename" : "ivysaur-card.arreferenceimage"
+    },
+    {
+      "filename" : "jigglypuff-card.arreferenceimage"
+    },
+    {
+      "filename" : "leafeon-card.arreferenceimage"
+    },
+    {
+      "filename" : "oddish-card.arreferenceimage"
+    },
+    {
+      "filename" : "persian-card.arreferenceimage"
+    },
+    {
+      "filename" : "pikachu-card.arreferenceimage"
+    },
+    {
+      "filename" : "psyduck-card.arreferenceimage"
+    }
+  ]
+}
